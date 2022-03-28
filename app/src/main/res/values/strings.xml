@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+    <string name="explain_text_photo_picker">Press the button to pop the Photo Picker</string>
+</resources>
